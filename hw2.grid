@@ -1,3 +1,5 @@
+@author: dinaaouani
+
 #define functions that will enable me to repeat 'lines' and 'columns':
 
 def do_twice(f):
