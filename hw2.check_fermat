@@ -1,3 +1,5 @@
+@author: dinaaouani
+
 a = int(raw_input('Enter value for a:\n'))
 b = int(raw_input('Enter value for b:\n'))
 c = int(raw_input('Enter value for c:\n'))
